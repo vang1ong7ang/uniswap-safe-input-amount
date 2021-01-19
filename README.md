@@ -1,6 +1,6 @@
 # uniswap safe input amount
 
-uniswap safe input amount is showed [here](safe.ipynb) to anti front running.
+uniswap safe input amount is showed [here](safe.ipynb) to anti sandwitch attack.
 
 essentially the safe input amount is `0.30135474%` of *amount of input token in the pool* because of the *transaction fee* is `0.3%`.
 
